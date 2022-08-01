@@ -45,6 +45,12 @@ const features = {
     "https://res.cloudinary.com/dgrebgb5n/image/upload/v1659272868/apex/Ellipse_8_edtow4.svg",
   circle3:
     "https://res.cloudinary.com/dgrebgb5n/image/upload/v1659272867/apex/Ellipse_4_mbhwp5.svg",
+  box1:
+    "https://res.cloudinary.com/dgrebgb5n/image/upload/v1659097082/apex/Card_t4maqb.svg",
+  box2:
+    "https://res.cloudinary.com/dgrebgb5n/image/upload/v1659097085/apex/Card-2_xgxr3k.svg",
+  box3:
+    "https://res.cloudinary.com/dgrebgb5n/image/upload/v1659097088/apex/Card-1_grf0kc.svg",
 };
 
 export const media = { shared, extra, features };

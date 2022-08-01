@@ -3,7 +3,7 @@ import { media } from "../../../mock/media.mock";
 const FeatureList = () => {
   const { features } = media;
   return (
-    <div className="max-w-128 mx-auto px-5 lg:px-10 pb-8 md:pb-20 pt-4 md:pt-6 border border-300-slate">
+    <div className="max-w-128 mx-auto px-5 lg:px-10 pb-8 md:pb-20 pt-4 md:pt-6 ">
       <h2 className="text-center font-[Uregular] text-dark pb-[10px] text-[30px] md:text-[36px]">
         Features for a better experience
       </h2>

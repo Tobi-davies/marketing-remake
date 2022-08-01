@@ -21,7 +21,7 @@ const Testimonial = () => {
           Our blessed client <br /> said about us 😍
         </h2>
 
-        <div className="flex flex-col md:flex-row gap-x-20">
+        <div className="flex flex-col md:flex-row gap-x-20 gap-y-5">
           <div className="w-full md:w-1/2">
             <div>
               <div className="bg-white px-6 xl:px-14  py-4 rounded-lg relative">

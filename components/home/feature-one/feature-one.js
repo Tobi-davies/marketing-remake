@@ -16,15 +16,15 @@ const FeatureOne = () => {
           </div>
           <div className="w-full lg:w-1/2 flex items-center pr-[15px]">
             <div className="lg:max-w-[420px] w-[100%] pt-4 sm:pt-8 lg:pt-0">
-              <p className="text-[32px] md:text-[40px] text-dark mb-5 mb-[30px] pt-[10px] font-[Uregular] max-w-[600px] sm:mx-auto lg:mx-0 sm:text-center lg:text-left text-left leading-10">
+              <p className="text-[32px] md:text-[40px] text-dark mb-5 md:mb-[30px] pt-[10px] font-[Uregular] max-w-[600px] sm:mx-auto lg:mx-0 sm:text-center lg:text-left text-left leading-10">
                 {" "}
                 Meet your customers, with live video chat
               </p>
-              <p className="text-defaultText text-[18px] lg:text-[16px] mb-[15px] md:mb-5 sm:max-w-[450px] lg:max-w-[380px] sm:text-center lg:text-left text-left sm:mx-auto lg:mx-0">
+              <p className="text-defaultText text-[18px] lg:text-[16px] mb-[15px] md:mb-5 sm:max-w-[450px] lg:max-w-[380px] sm:text-center lg:text-left text-left sm:mx-auto lg:mx-0 leading-6">
                 Proin faucibus nibh et sagittis a. Lacinia purus ac amet
                 pellentesque aliquam enim.
               </p>
-              <p className="text-defaultText text-base sm:mb-[10px] sm:max-w-[450px] lg:max-w-[380px] sm:text-center lg:text-left text-left sm:m-auto lg:m-0">
+              <p className="text-defaultText text-base sm:mb-[10px] sm:max-w-[450px] lg:max-w-[380px] sm:text-center lg:text-left text-left sm:m-auto lg:m-0 leading-6">
                 Get paychecks up to two days early. Get a $20 bonus when you
                 receive qualifying direct deposits
               </p>

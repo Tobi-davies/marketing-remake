@@ -9,30 +9,34 @@ const FeatureThree = () => {
           <div className="relative">
             <img
               src={features.orderBg}
-              width="400px"
+              className="w-[300px] lg:400px"
+              // width="400px"
               // height="90%"
               alt="order background"
             />
 
-            <div className="absolute top-[70px] left-[-20px]">
+            <div className="absolute top-[60px] lg:top-[60px] left-[-8px] lg:left-[-20px]">
               <img
                 src={features.circle1}
+                className="w-[40px] w-[50px]"
                 // width="400px"
                 // height="90%"
                 alt="customer"
               />
             </div>
-            <div className="absolute right-0 top-[190px]">
+            <div className="absolute right-[6px] lg:right-[-2px] top-[140px] lg:top-[140px]">
               <img
                 src={features.circle2}
+                className="w-[40px] lg:w-[50px]"
                 // width="400px"
                 // height="90%"
                 alt="customer"
               />
             </div>
-            <div className="absolute bottom-[-10px] left-[65px]">
+            <div className="absolute bottom-[-8px] lg:bottom-[0px] left-[50px] lg:left-[65px]">
               <img
                 src={features.circle3}
+                className="w-[43px] lg:w-[50px]"
                 // width="400px"
                 // height="90%"
                 alt="customer"
